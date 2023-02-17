@@ -11,7 +11,7 @@ img1 = Image.open('head.png')
 
 #st.image(img2)
 #st.write("---")
-st.header("Predicted Roughness of a Tool")
+st.header("Tool Wear Prediction")
 
 
 st.sidebar.image(img1)
